@@ -1,3 +1,7 @@
+# Instrukser
+
+* kunne ikke uploade publicmappen uden at zippe den, den skal bare unzippes, så virker det på en http server
+
 # Der er følgende krav til PWA'en:
 
 ------
